@@ -1,3 +1,4 @@
+
 # deepseek-client-mac
 
 Tauri + Vanilla TS (навайбкодил)
